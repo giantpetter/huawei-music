@@ -1,0 +1,1 @@
+{"version":3,"sources":["src\\scss\\html.scss"],"names":[],"mappings":"AAGA;EACE,OAJM;;AAMN;EACE,OANK","file":"html.3585cd8e.css","sourceRoot":"..","sourcesContent":["$color: #ff00ff;\r\n$color2: #ffaa33;\r\n\r\nbody {\r\n  color: $color;\r\n\r\n  p {\r\n    color: $color2;\r\n  }\r\n}\r\n"]}
